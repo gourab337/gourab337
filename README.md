@@ -6,7 +6,8 @@
 
 🎓 &nbsp;I'm a Computer Science Engineering sophomore at IIIT Dharwad, Karnataka .\
 🌱 &nbsp;I'm a App Developer with knowledge in Machine Learning and Artificial Intelligence .\
-✍️ &nbsp;I play the guitar and hit the gym in my free time.\
+🖥 &nbsp;I have done several project in NLP, ML and Deep Learning .\
+🎸 &nbsp;I play the guitar and hit the gym in my free time.\
 ✉️ &nbsp;You can shoot me an email at my personal id: gourabc6@gmail.com! I'll try to respond as soon as I can.
 
 
@@ -38,9 +39,14 @@
 ![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white)&nbsp;
-![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
-
-
+![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white)&nbsp;\
+![TensorFlow](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
+![Numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)&nbsp;
+![Panda](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)&nbsp;\
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -50,6 +56,12 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gourab337&layout=compact&langs_count=8&theme=blue-green"/>
 </a>
 </p>
+
+### 🤝🏻 &nbsp;Find me on
+            
+![StackOverflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)&nbsp;
+![Reddit](https://img.shields.io/badge/Reddit%20-%23FF4500.svg?&style=for-the-badge&logo=Reddit&logoColor=white)&nbsp;
+![Quora](https://img.shields.io/badge/Quora%20-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)&nbsp;
 
 
 ### 🤝🏻 &nbsp;Connect with Me
