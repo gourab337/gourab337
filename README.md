@@ -3,9 +3,7 @@
 <h1 align="center"> Gourab Chakraborty - gourab337 </h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
-
-🎓 &nbsp;I'm a Computer Science Engineering sophomore at IIIT Dharwad, Karnataka .\
-🌱 &nbsp;I'm a App Developer with knowledge in Machine Learning and Artificial Intelligence .\
+🎓 &nbsp;I'm a App Developer with knowledge in Machine Learning and Artificial Intelligence .\
 🖥 &nbsp;I have done several project in NLP, ML and Deep Learning .\
 🎸 &nbsp;I play the guitar and hit the gym in my free time.\
 ✉️ &nbsp;You can shoot me an email at my personal id: gourabc6@gmail.com! I'll try to respond as soon as I can.
