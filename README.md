@@ -3,11 +3,11 @@
 <h1 align="center"> Gourab Chakraborty - gourab337 </h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
-🎓 &nbsp;I'm an App Developer with knowledge in Machine Learning and Artificial Intelligence.\
-🎧 &nbsp;My hobbies are programming and designing cool projects. Sometimes I contribute to opensource project, or create new project by myself or with my friends.\
-🖥 &nbsp;I have done several project in NLP, ML and Deep Learning, Web Development.\
-🎸 &nbsp;I like travelling, playing the guitar and working out.\
-✉️ &nbsp;You can shoot me an email at my personal email id: gourabc6@gmail.com! I'll try to respond as soon as I can.
+🎓 &nbsp;I'm a Developer with knowledge in Data Science, Machine Learning and Artificial Intelligence.\
+🎧 &nbsp;My hobbies are programming and designing cool projects & apps. Sometimes I contribute to opensource project, or create new project by myself or with my friends.\
+🖥 &nbsp;I have done several project in NLP, ML and Deep Learning, Web Development, Flutter App Development.\
+🎸 &nbsp;I like travelling, reading and working out.\
+✉️ &nbsp;You can shoot me an email at my email id: 19bcs118@iiitdwd.ac.in ! I'll try to respond as soon as I can.
 
 
 
